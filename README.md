@@ -1,8 +1,8 @@
-# Oracle-SQL-FUndamentals
+# Oracle-SQL-Fundamentals
 
 Explore some features provided by Oracle: Oracle Database 12c, Oracle SQL Developer
 
-According the the Description:
+According to the Description:
 Learn and practice relational database concepts and Structured Query Language (SQL):
 * Retrieve data
 * Create reports
